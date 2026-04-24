@@ -1,1 +1,1 @@
-The two .wav files contain the compressed audio signal (file music_dsp2026.wav), for both quantization methods.
+The 2nd Part of the project is the compression of an audio signal. The two .wav files contain the compressed audio signal (file music_dsp2026.wav), for both quantization methods.
